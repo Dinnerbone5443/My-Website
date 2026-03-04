@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jizzy's World</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to jizzy.strokin.it</h1>
+        <p>Legend</p>
+        <div class="links">
+            <a href="https://dinnerbone5443-b.hf.space/">Access my API Proxy</a>
+        </div>
+    </div>
+</body>
+</html>
